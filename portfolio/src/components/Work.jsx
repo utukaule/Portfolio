@@ -27,12 +27,12 @@ export const Work = () => {
                 LinkedIn Learning
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://lynda01.netlify.app/'>
+                <a href='https://lynda01.netlify.app/ ' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/utukaule/linkedin-learning'>
+                <a href='https://github.com/utukaule/linkedin-learning' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -57,7 +57,7 @@ export const Work = () => {
                     Demo
                   </button>
                 </a> */}
-                <a href='https://github.com/utukaule/MaxFashion'>
+                <a href='https://github.com/utukaule/MaxFashion' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
